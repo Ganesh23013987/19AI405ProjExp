@@ -12,9 +12,8 @@
 <li>As our assumption was wrong, we discard the assigned num and then we go for the next assumption with a different num value</li>
 </ol>
 
-```
-PROGRAM WAS DEVELOPED BY: GANESH.D
-REGISTER NUMBER: 212223240035
+### PROGRAM WAS DEVELOPED BY: GANESH.D
+### REGISTER NUMBER: 212223240035
 ```
 ## PROGRAM
 ```
